@@ -1,0 +1,3 @@
+run="msbuild -restore && mono bin/Debug/netcoreapp3.1/firstGiraffe"
+#run="msbuild firstGiraffe.fsproj -t:Build && mono bin/Debug/netcoreapp3.1/firstGiraffe"
+language="fsharp"
